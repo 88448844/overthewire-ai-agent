@@ -14,7 +14,7 @@ The agent follows a simple Observe-Think-Act loop:
 3.  **Act**: It executes the command on the remote machine.
 4.  **Validate**: It checks the output for a flag pattern.
 
-## How to Run
+## How To Run
 
 1.  **Dependencies**: Install the required Python packages from `requirements.txt`.
     ```bash
